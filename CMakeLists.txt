@@ -3,4 +3,4 @@ project(fpcpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(fpcpp main.cpp)
+add_executable(fpcpp chapter_01.cpp)
